@@ -1,78 +1,62 @@
 body {
-    background-color: black;
-    color: aliceblue;
-}
+  background-color: black;
+  color: aliceblue; }
 
 .location {
-    color: white;
-    text-align: center;
-}
+  color: white;
+  text-align: center; }
 
-.navbar-brand {   
-    font-size: 2.5rem;
-    font-weight: bold;
-    padding-right: 560px;
-  }
-  
-  .nav-item {
-    padding: 0 18px;
-  }
-  
-  .nav-link {
-    font-size: 1.2rem;
-  }
-  
-  .logoImage {
-    height: auto; 
-    width: auto; 
-    max-width: 600px; 
-    max-height: 600px;
-}
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-right: 560px; }
+
+.nav-item {
+  padding: 0 18px; }
+
+.nav-link {
+  font-size: 1.2rem; }
+
+.logoImage {
+  height: auto;
+  width: auto;
+  max-width: 600px;
+  max-height: 600px; }
 
 #bookMeButton {
   position: absolute;
   top: 370px;
-  right: 160px;
-}
+  right: 160px; }
 
 .modal {
-  color:black;
-}
+  color: black; }
 
 .contact-container {
-  padding: 50px 0 50px 0;
-}
+  padding: 50px 0 50px 0; }
 
 .services-card {
   color: black;
   padding: 30px;
   margin: 40px auto 100px auto;
-  border: 3px solid gray;
-}
+  border: 3px solid gray; }
 
 .service-pictures {
-  height: auto; 
-  width: auto; 
-  max-width: 300px; 
-  max-height: 300px;
-}
+  height: auto;
+  width: auto;
+  max-width: 300px;
+  max-height: 300px; }
 
 .service-row {
-  padding: 10px 0 100px 10px;
-}
+  padding: 10px 0 100px 10px; }
 
 .slayedcarousel {
-  margin: 100px auto 100px auto;
-}
+  margin: 100px auto 100px auto; }
 
 .google-map {
-  margin-bottom: 100px;
-}
+  margin-bottom: 100px; }
 
 .aboutmecard {
-  color: black;
-}
+  color: black; }
 
 .aboutmesection {
-  margin: 50px auto 50px auto;
-}
+  margin: 50px auto 50px auto; }
